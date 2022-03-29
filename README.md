@@ -33,3 +33,13 @@ npm run dist // build installer, hasilnya ada di ../_Release/ESTGRBBR
 Catatan:
 
 - Fitur proxy belum dicoba, silakan coba sendiri, tapi resiko Anda tanggung sendiri.
+
+## Info Tambahan
+
+Traktir Saya:
+
+https://sociabuzz.com/lsfkrshb/tribe
+
+Channel YouTube Saya:
+
+https://www.youtube.com/c/shbfrlnc
