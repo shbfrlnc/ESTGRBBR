@@ -1,6 +1,6 @@
 # ESTGRBBR
 
-ESTGRBBR adalah aplikasi website downloader, yang hasilnya PDF atau gambar.
+ESTGRBBR adalah aplikasi website downloader, yang hasilnya PDF atau gambar. 
 
 Untuk mendownloadnya, kunjungi bagian Releases.
 
