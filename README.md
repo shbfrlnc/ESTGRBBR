@@ -34,6 +34,18 @@ Catatan:
 
 - Fitur proxy belum dicoba, silakan coba sendiri, tapi resiko Anda tanggung sendiri.
 
+## Screencast
+
+- https://www.youtube.com/watch?v=UhAL3Sk5O1I&list=PLOg7o5N1MDWQQcMCQvgvTtXKKRWaG0JbX
+
+## Screenshot
+
+![ScreenShot](https://github.com/shbfrlnc/ESTGRBBR/blob/main/assets/ESTGRBBR1.png)
+
+![ScreenShot](https://github.com/shbfrlnc/ESTGRBBR/blob/main/assets/ESTGRBBR2.png)
+
+![ScreenShot](https://github.com/shbfrlnc/ESTGRBBR/blob/main/assets/ESTGRBBR3.png)
+
 ## Info Tambahan
 
 Traktir Saya:
