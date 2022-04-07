@@ -36,7 +36,7 @@ Catatan:
 
 ## Screencast
 
-- https://www.youtube.com/watch?v=UhAL3Sk5O1I&list=PLOg7o5N1MDWQQcMCQvgvTtXKKRWaG0JbX
+- https://www.youtube.com/playlist?list=PLOg7o5N1MDWQQcMCQvgvTtXKKRWaG0JbX
 
 ## Screenshot
 
