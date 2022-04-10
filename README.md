@@ -50,11 +50,11 @@ Catatan:
 
 ## Screenshot
 
-![ScreenShot](https://github.com/shbfrlnc/ESTGRBBR/blob/main/assets/ESTGRBBR1.png)
+![ScreenShot](assets/ESTGRBBR1.png?raw=true)
 
-![ScreenShot](https://github.com/shbfrlnc/ESTGRBBR/blob/main/assets/ESTGRBBR2.png)
+![ScreenShot](assets/ESTGRBBR2.png?raw=true)
 
-![ScreenShot](https://github.com/shbfrlnc/ESTGRBBR/blob/main/assets/ESTGRBBR3.png)
+![ScreenShot](assets/ESTGRBBR3.png?raw=true)
 
 ## Info Tambahan
 
