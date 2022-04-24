@@ -6,43 +6,44 @@ Untuk mendownloadnya, kunjungi bagian Releases.
 
 ## Pendahuluan
 
-ESTGRBBR adalah aplikasi website downloader, yang hasilnya PDF atau gambar. 
+ESTGRBBR is a website downloader (Download as Image or PDF). 
 
-Untuk menjalankannya, ekstrak file zipnya, kemudian jalankan:
+Extract the zip source, cd to the folder, then (in command line):
 
 ```
 npm install
 ```
 
-Kemudian, jalankan:
+Then:
 
 ```
-// untuk menjalankan aplikasi dengan script plaintext
+// to run the plaintext codes
 npm run dev
 ```
 
-Atau
+Or:
 
 ```
+// to obfuscate the codes
 npm run obfuscate
 
-// untuk menjalankan aplikasi dengan script yang sudah di-obfuscate
+// to run the obfuscated codes
 npm run start
 ```
 
-Untuk mem-build aplikasi ini menjadi installer (aplikasi Windows):
+To build the installer:
 
 ```
-// obfuscate dulu, karena yang di production bukan dalam bentuk plaintext
+// obfuscate first, the installer does not contain the plaintext codes
 npm run obfuscate
 
-// build installer, hasilnya ada di ../_Release/ESTGRBBR
+// build installer, results in ../_Release/ESTGRBBR
 npm run dist
 ```
 
-Catatan:
+Note:
 
-- Fitur proxy belum dicoba, silakan coba sendiri, tapi resiko Anda tanggung sendiri.
+- Proxy feature is untested.
 
 ## Screencast
 
