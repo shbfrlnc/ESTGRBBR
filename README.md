@@ -2,7 +2,7 @@
 
 ## Download
 
-Untuk mendownloadnya, kunjungi bagian Releases.
+Download the project on release page.
 
 ## Pendahuluan
 
