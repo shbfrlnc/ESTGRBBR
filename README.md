@@ -10,7 +10,7 @@ Support me, my youtube channel, etc:
 
 - https://shbfrlnc.github.io
 
-## Pendahuluan
+## Intro
 
 ESTGRBBR is a website downloader (Download as Image or PDF). 
 
