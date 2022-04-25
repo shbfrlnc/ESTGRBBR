@@ -4,6 +4,12 @@
 
 Download the project on release page.
 
+## More Info
+
+Support me, my youtube channel, etc:
+
+- https://shbfrlnc.github.io
+
 ## Pendahuluan
 
 ESTGRBBR is a website downloader (Download as Image or PDF). 
@@ -56,9 +62,3 @@ Note:
 ![ScreenShot](assets/ESTGRBBR2.png?raw=true)
 
 ![ScreenShot](assets/ESTGRBBR3.png?raw=true)
-
-## Info Tambahan
-
-Traktir Saya, Channel YouTube Saya, dan lain-lain:
-
-- https://sociabuzz.com/lsfkrshb
