@@ -2,54 +2,54 @@
 
 ## Download
 
-Download the project on release page.
+Untuk mendownloadnya, kunjungi halaman Releases.
 
-## More Info
+## Info Lebih Lanjut
 
-Support me, my youtube channel, etc:
+TRAKTIR / WEBSITE / YOUTUBE / TWITTER:
 
 - https://shbfrlnc.github.io
 
 ## Intro
 
-ESTGRBBR is a website downloader (Download as Image or PDF). 
+ESTGRBBR adalah website downloader (Download sebagai Image atau PDF). 
 
-Extract the zip source, cd to the folder, then (in command line):
+Untuk menjalankan aplikasi ini, ekstrak file zip nya, masuk ke dalam foldernya via command line, lalu:
 
 ```
 npm install
 ```
 
-Then:
+Selanjutnya:
 
 ```
-// to run the plaintext codes
+// untuk menjalankan kode dalam bentuk plaintext
 npm run dev
 ```
 
-Or:
+Atau:
 
 ```
-// to obfuscate the codes
+// obfuscate kode plaintext nya
 npm run obfuscate
 
-// to run the obfuscated codes
+// jalankan kode yang sudah di-obfuscate
 npm run start
 ```
 
-To build the installer:
+Untuk mem-build installer untuk Windows:
 
 ```
-// obfuscate first, the installer does not contain the plaintext codes
+// obfuscate dahulu, karena kode plaintext untuk development, bukan production
 npm run obfuscate
 
-// build installer, results in ../_Release/ESTGRBBR
+// build installer, hasilnya ada di ../_Release/ESTGRBBR
 npm run dist
 ```
 
-Note:
+Catatan:
 
-- Proxy feature is untested.
+- Proxy feature belum dicoba.
 
 ## Screencast
 
