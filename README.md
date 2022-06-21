@@ -51,10 +51,6 @@ Catatan:
 
 - Proxy feature belum dicoba.
 
-## Screencast
-
-- https://www.youtube.com/playlist?list=PLOg7o5N1MDWQQcMCQvgvTtXKKRWaG0JbX
-
 ## Screenshot
 
 ![ScreenShot](assets/ESTGRBBR1.png?raw=true)
